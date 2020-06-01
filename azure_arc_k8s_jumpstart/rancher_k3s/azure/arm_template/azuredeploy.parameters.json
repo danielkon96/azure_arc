@@ -3,19 +3,19 @@
     "contentVersion": "1.0.0.0",
     "parameters": {
         "adminUsername": {
-            "value": "<OS Username>"
+            "value": "danikooo"
         },
         "adminPasswordOrKey": {
-            "value": "<OS Password>"
+            "value": "notmypassword!234"
         },
         "appId": {
-            "value": "<Your Azure Service Principle name>"
+            "value": "59d25a60-48a0-4f5e-84bc-e83d4c0cf4e0"
         },
         "password": {
-            "value": "<Your Azure Service Principle password>"
+            "value": "IT\",!BnnKsR|yT6]'my44l\"q&M[\\+_z<"
         },
         "tenantId": {
-            "value": "<Your Azure tenant ID>"
+            "value": "72f988bf-86f1-41af-91ab-2d7cd011db47"
         }                              
     }
 }
